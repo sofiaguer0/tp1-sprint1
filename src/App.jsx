@@ -5,7 +5,7 @@ import SkillList from './components/SkillList'
 
 function App() {
   return (
-    <div className="min-h-screen w-full bg-rose-50">
+    <div className="min-h-screen w-full bg-bg">
       <ProfileHeader />
 
       <SkillList />
