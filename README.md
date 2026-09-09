@@ -22,5 +22,5 @@ Al principio no entendía por qué el footer se veía "desconectado" del resto d
 Este es el repositorio de mi aplicación. Puedes ver el resultado final en línea.
 
 ## 🚀 Demo En Vivo
-[Visita mi sitio en Netlify](https://netlify.app)
+[Visita mi sitio en Netlify](https://sofitp1sprint1.netlify.app)
 
