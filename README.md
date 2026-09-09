@@ -15,3 +15,7 @@ También corregí colores y textos para que combinen entre secciones, ajusté el
 
 ## Lo que me costó
 Al principio no entendía por qué el footer se veía "desconectado" del resto de la landing (colores y bordes distintos); aprendí a fijarme en que todas las secciones compartan la misma paleta y el mismo `max-w-7xl mx-auto px-6 md:px-10` para que quede alineado.
+
+
+## Link de Netlify
+sofitp1sprint1.netlify.app
