@@ -18,4 +18,4 @@ Al principio no entendía por qué el footer se veía "desconectado" del resto d
 
 
 ## Link de Netlify
-sofitp1sprint1.netlify.app
+<sofitp1sprint1.netlify.app>
